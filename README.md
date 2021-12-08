@@ -12,7 +12,7 @@ Projeto desenvolvido utilizando:
 
 >Ionic
 
->Apollo 
+>Apollo Cli
 
 >Sass
 
