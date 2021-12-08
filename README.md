@@ -43,4 +43,10 @@ Projeto desenvolvido utilizando:
 </div>
 
 
+Comando para executar o projeto
 
+>>ionic serve
+
+Comando para gerar os arquivos das querys
+
+>>npm run codegen
